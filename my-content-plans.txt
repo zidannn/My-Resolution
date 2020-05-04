@@ -1,0 +1,7 @@
+RENCANA KONTEN YOUTUBE
+
+-CSS
+ * Membuat navbar hide & show
+ * Membuat tutorial SASS
+-JavaScript Frameworks
+-Buat project
