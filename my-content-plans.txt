@@ -4,4 +4,5 @@ RENCANA KONTEN YOUTUBE
  * Membuat navbar hide & show
  * Membuat tutorial SASS
 -JavaScript Frameworks
--Buat project
+-Buat project bareng
+-Tutor node.js
