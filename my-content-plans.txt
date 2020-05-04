@@ -3,6 +3,8 @@ RENCANA KONTEN YOUTUBE
 -CSS
  * Membuat navbar hide & show
  * Membuat tutorial SASS
+ * Tailwind CSS
 -JavaScript Frameworks
+ * React js.
 -Buat project bareng
 -Tutor node.js
