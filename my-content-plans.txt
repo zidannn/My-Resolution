@@ -6,6 +6,6 @@ RENCANA KONTEN YOUTUBE
  * Materialize
  * Tailwind CSS
 -JavaScript Frameworks
- * React native
+ * React js.
 -Buat project bareng
 -Tutor node.js
